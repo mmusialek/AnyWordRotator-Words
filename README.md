@@ -1,0 +1,1 @@
+# AnyWordRotator-Words
