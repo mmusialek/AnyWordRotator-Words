@@ -2,6 +2,9 @@
     "wordFiles": [
         {
             "fileUrl": "src/en_pl/test_0001.csv"
+        },
+        {
+            "fileUrl": "src/en_pl/common_0001.csv"
         }
     ]
 }
